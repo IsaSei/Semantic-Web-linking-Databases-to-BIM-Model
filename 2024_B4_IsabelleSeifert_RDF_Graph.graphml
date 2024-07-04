@@ -1,0 +1,2653 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="label" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/899ad6d2-c598-4831-bc0a-8638aa034a69?version=20.23.050">
+  <data key="d0">obd:899ad6d2-c598-4831-bc0a-8638aa034a69?version=20.23.050</data>
+</node>
+<node id="219.2800857">
+  <data key="d0">219.2800857</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/560/AT0076">
+  <data key="d0">fcl:produkt_info/560/AT0076</data>
+</node>
+<node id="https://www.freeclass.de/eurobau_artikelstamm/12005525#trv">
+  <data key="d0">fcl:eurobau_artikelstamm/12005525#trv</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Leichtbeton">
+  <data key="d0">obd:Leichtbeton</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Steine_und_Elemente">
+  <data key="d0">obd:Steine_und_Elemente</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1a43ae76-2dc9-4a3a-9926-47e7137e773d?version=20.19.120">
+  <data key="d0">obd:1a43ae76-2dc9-4a3a-9926-47e7137e773d?version=20.19.120</data>
+</node>
+<node id="-0.969479095">
+  <data key="d0">-0.969479095</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/633/AT0986">
+  <data key="d0">fcl:produkt_info/633/AT0986</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b342696e-2ebb-4fe1-a71d-f3520db0cee9?version=20.19.120">
+  <data key="d0">obd:b342696e-2ebb-4fe1-a71d-f3520db0cee9?version=20.19.120</data>
+</node>
+<node id="0.810453035">
+  <data key="d0">0.810453035</data>
+</node>
+<node id="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/ReinforcementAreaRatio">
+  <data key="d0">bSDD:uri/buildingsmart/ifc/4.3/prop/ReinforcementAreaRatio</data>
+</node>
+<node id="http://www.w3.org/2002/07/owl#Property">
+  <data key="d0">owl:Property</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9357b7fc-cf0a-45fc-8299-e794e3889a40?version=20.19.120">
+  <data key="d0">obd:9357b7fc-cf0a-45fc-8299-e794e3889a40?version=20.19.120</data>
+</node>
+<node id="https://dbpedia.org/page/kg_CO2_m2">
+  <data key="d0">dbp:kg_CO2_m2</data>
+</node>
+<node id="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/MassDensity">
+  <data key="d0">bSDD:uri/buildingsmart/ifc/4.3/prop/MassDensity</data>
+</node>
+<node id="https://identifier.buildingsmart.org/uri/buildingsmart/ifc">
+  <data key="d0">bSDD:uri/buildingsmart/ifc</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a758fb6a-7fb1-4cdc-b652-c42cf2f7632c?version=20.20.020">
+  <data key="d0">obd:a758fb6a-7fb1-4cdc-b652-c42cf2f7632c?version=20.20.020</data>
+</node>
+<node id="C30/37">
+  <data key="d0">C30/37</data>
+</node>
+<node id="1.696008299">
+  <data key="d0">1.696008299</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9702d9ab-2af2-4fdc-9d99-225583a9ffb7?version=20.20.020">
+  <data key="d0">obd:9702d9ab-2af2-4fdc-9d99-225583a9ffb7?version=20.20.020</data>
+</node>
+<node id="C20/25">
+  <data key="d0">C20/25</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/645/AT0986">
+  <data key="d0">fcl:produkt_info/645/AT0986</data>
+</node>
+<node id="PROFI Drainbeton">
+  <data key="d0">PROFI Drainbeton</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/0eada728-b626-4f79-ba67-020635b4e67f?version=20.19.120">
+  <data key="d0">obd:0eada728-b626-4f79-ba67-020635b4e67f?version=20.19.120</data>
+</node>
+<node id="0.000718871">
+  <data key="d0">0.000718871</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b38f2dac-fa08-4a9c-ae8d-017f6e2f169f?version=20.23.050">
+  <data key="d0">obd:b38f2dac-fa08-4a9c-ae8d-017f6e2f169f?version=20.23.050</data>
+</node>
+<node id="15.6014704">
+  <data key="d0">15.6014704</data>
+</node>
+<node id="https://www.freeclass.eu/produkt_info/733/AT0031">
+  <data key="d0">https://www.freeclass.eu/produkt_info/733/AT0031</data>
+</node>
+<node id="Creteo®Shot CC 575">
+  <data key="d0">Creteo®Shot CC 575</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Transportbeton">
+  <data key="d0">obd:Transportbeton</data>
+</node>
+<node id="Transportbeton">
+  <data key="d0">Transportbeton</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/6739667a-49d1-4a9c-a4b2-eb542167710c?version=20.23.050">
+  <data key="d0">obd:6739667a-49d1-4a9c-a4b2-eb542167710c?version=20.23.050</data>
+</node>
+<node id="http://www.w3.org/2002/07/owl#Class">
+  <data key="d0">owl:Class</data>
+</node>
+<node id="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_A4">
+  <data key="d0">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_A4</data>
+</node>
+<node id="cPset_EnvironmentalImpactValues_A4">
+  <data key="d0">cPset_EnvironmentalImpactValues_A4</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Porenbeton">
+  <data key="d0">obd:Porenbeton</data>
+</node>
+<node id="7.474639473">
+  <data key="d0">7.474639473</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/557/AT0076/22457">
+  <data key="d0">fcl:produkt_info/557/AT0076/22457</data>
+</node>
+<node id="Baumit DrainBeton">
+  <data key="d0">Baumit DrainBeton</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a4fceab4-71a2-46c9-ac9a-19a964d48ce5?version=20.19.120">
+  <data key="d0">obd:a4fceab4-71a2-46c9-ac9a-19a964d48ce5?version=20.19.120</data>
+</node>
+<node id="3.899086766">
+  <data key="d0">3.899086766</data>
+</node>
+<node id="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral">
+  <data key="d0">bSDD:uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral</data>
+</node>
+<node id="Pset_MaterialConcrete">
+  <data key="d0">Pset_MaterialConcrete</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8565038f-5c21-48d7-94cb-958498ba9dd3?version=20.23.050">
+  <data key="d0">obd:8565038f-5c21-48d7-94cb-958498ba9dd3?version=20.23.050</data>
+</node>
+<node id="Betonstahlmatten">
+  <data key="d0">Betonstahlmatten</data>
+</node>
+<node id="https://identifier.buildingsmart.org/cPset_EnvironmentalImpactValues_A1_A3">
+  <data key="d0">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</node>
+<node id="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties">
+  <data key="d0">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties</data>
+</node>
+<node id="https://dbpedia.org/page/Foam_Concrete">
+  <data key="d0">dbp:Foam_Concrete</data>
+</node>
+<node id="https://www.freeclass.de/eurobau_artikelstamm/1201#trv">
+  <data key="d0">fcl:eurobau_artikelstamm/1201#trv</data>
+</node>
+<node id="Concrete Density">
+  <data key="d0">Concrete Density</data>
+</node>
+<node id="-4.847395473">
+  <data key="d0">-4.847395473</data>
+</node>
+<node id="https://www.freeclass.de/eurobau_artikelstamm/12002732#trv">
+  <data key="d0">fcl:eurobau_artikelstamm/12002732#trv</data>
+</node>
+<node id="https://www.freeclass.eu/eurobau_artikelstamm/120#trv">
+  <data key="d0">https://www.freeclass.eu/eurobau_artikelstamm/120#trv</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/57a87943-dbdd-4221-bbd2-481b8fcd1d2b?version=20.19.120">
+  <data key="d0">obd:57a87943-dbdd-4221-bbd2-481b8fcd1d2b?version=20.19.120</data>
+</node>
+<node id="15.54075056">
+  <data key="d0">15.54075056</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Betonfertigteile_und_Betonwaren">
+  <data key="d0">obd:Betonfertigteile_und_Betonwaren</data>
+</node>
+<node id="https://dbpedia.org/page/kg_CO2_m3">
+  <data key="d0">dbp:kg_CO2_m3</data>
+</node>
+<node id="144466961">
+  <data key="d0">144466961</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1b978129-dd5e-45ea-9c82-1c3510e9c965?version=20.20.020">
+  <data key="d0">obd:1b978129-dd5e-45ea-9c82-1c3510e9c965?version=20.20.020</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Blähton_LB">
+  <data key="d0">obd:Blähton_LB</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d3b59cac-3b4e-4d18-8c3a-780b553c9591?version=20.19.120">
+  <data key="d0">obd:d3b59cac-3b4e-4d18-8c3a-780b553c9591?version=20.19.120</data>
+</node>
+<node id="0.329482336">
+  <data key="d0">0.329482336</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/517/AT0522">
+  <data key="d0">fcl:produkt_info/517/AT0522</data>
+</node>
+<node id="Trockenbeton C 25/30 - Trockenestrich C 30-F5">
+  <data key="d0">Trockenbeton C 25/30 - Trockenestrich C 30-F5</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/529/AT0052">
+  <data key="d0">fcl:produkt_info/529/AT0052</data>
+</node>
+<node id="LANG Ing. Hans">
+  <data key="d0">LANG Ing. Hans</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/553/AT0076">
+  <data key="d0">fcl:produkt_info/553/AT0076</data>
+</node>
+<node id="Baumit NixMix Beton">
+  <data key="d0">Baumit NixMix Beton</data>
+</node>
+<node id="https://www.freeclass.de/eurobau_artikelstamm/12010508#trv">
+  <data key="d0">fcl:eurobau_artikelstamm/12010508#trv</data>
+</node>
+<node id="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2">
+  <data key="d0">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</node>
+<node id="cPset_EnvironmentalImpactValues_C2">
+  <data key="d0">cPset_EnvironmentalImpactValues_C2</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/906b4864-0511-480f-a8bc-7b8302efbf0b?version=20.19.120">
+  <data key="d0">obd:906b4864-0511-480f-a8bc-7b8302efbf0b?version=20.19.120</data>
+</node>
+<node id="2.555797898">
+  <data key="d0">2.555797898</data>
+</node>
+<node id="1.555156625">
+  <data key="d0">1.555156625</data>
+</node>
+<node id="https://www.freeclass.de/eurobau_artikelstamm/12005516#trv">
+  <data key="d0">fcl:eurobau_artikelstamm/12005516#trv</data>
+</node>
+<node id="0.46127527">
+  <data key="d0">0.46127527</data>
+</node>
+<node id="Spritzbeton Beton-Größtkorn 8 mm">
+  <data key="d0">Spritzbeton Beton-Größtkorn 8 mm</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/c7e171fb-d5eb-4867-9fb2-961dec81d6aa?version=20.20.020">
+  <data key="d0">obd:c7e171fb-d5eb-4867-9fb2-961dec81d6aa?version=20.20.020</data>
+</node>
+<node id="http://www.w3.org/2002/07/owl#DatatypeProperty">
+  <data key="d0">owl:DatatypeProperty</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/629/AT0986">
+  <data key="d0">fcl:produkt_info/629/AT0986</data>
+</node>
+<node id="PROFI Trockenbeton DC16/20">
+  <data key="d0">PROFI Trockenbeton DC16/20</data>
+</node>
+<node id="https://dbpedia.org/page/kg_CO2_kg">
+  <data key="d0">dbp:kg_CO2_kg</data>
+</node>
+<node id="0.763693331">
+  <data key="d0">0.763693331</data>
+</node>
+<node id="https://dbpedia.org/property/unit">
+  <data key="d0">dbpp:unit</data>
+</node>
+<node id="https://www.freeclass.eu/produkt_info/758/AT0031">
+  <data key="d0">https://www.freeclass.eu/produkt_info/758/AT0031</data>
+</node>
+<node id="PCreteo®Repair CC 194 M">
+  <data key="d0">PCreteo®Repair CC 194 M</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/561/AT0076">
+  <data key="d0">fcl:produkt_info/561/AT0076</data>
+</node>
+<node id="Baumit GO2morrow Recycling Beton B20">
+  <data key="d0">Baumit GO2morrow Recycling Beton B20</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/16e0f5b5-8090-4466-b303-7b8ae71110d8?version=20.23.050">
+  <data key="d0">obd:16e0f5b5-8090-4466-b303-7b8ae71110d8?version=20.23.050</data>
+</node>
+<node id="0.141743443">
+  <data key="d0">0.141743443</data>
+</node>
+<node id="https://dbpedia.org/page/Material">
+  <data key="d0">dbp:Material</data>
+</node>
+<node id="https://www.freeclass.de/eurobau_artikelstamm/12010504#trv">
+  <data key="d0">fcl:eurobau_artikelstamm/12010504#trv</data>
+</node>
+<node id="Porenbeton_P4_05_unbewehrt">
+  <data key="d0">Porenbeton_P4_05_unbewehrt</data>
+</node>
+<node id="1.205003481">
+  <data key="d0">1.205003481</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Mörtel_und_Beton">
+  <data key="d0">obd:Mörtel_und_Beton</data>
+</node>
+<node id="Mörtel und Beton">
+  <data key="d0">Mörtel und Beton</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/079ed601-8b92-49cd-9c09-ab8e067366cf?version=20.23.050">
+  <data key="d0">obd:079ed601-8b92-49cd-9c09-ab8e067366cf?version=20.23.050</data>
+</node>
+<node id="2.045883972">
+  <data key="d0">2.045883972</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/506/AT0031">
+  <data key="d0">fcl:produkt_info/506/AT0031</data>
+</node>
+<node id="https://www.freeclass.de/eurobau_artikelstamm/12006008#trv">
+  <data key="d0">fcl:eurobau_artikelstamm/12006008#trv</data>
+</node>
+<node id="41.50863986">
+  <data key="d0">41.50863986</data>
+</node>
+<node id="88.78006398">
+  <data key="d0">88.78006398</data>
+</node>
+<node id="38.97678704">
+  <data key="d0">38.97678704</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Mineralische_Baustoffe">
+  <data key="d0">obd:Mineralische_Baustoffe</data>
+</node>
+<node id="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3">
+  <data key="d0">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</node>
+<node id="Betonfertigteil_Wand_12cm">
+  <data key="d0">Betonfertigteil_Wand_12cm</data>
+</node>
+<node id="https://www.freeclass.de/eurobau_artikelstamm/12005530#trv">
+  <data key="d0">fcl:eurobau_artikelstamm/12005530#trv</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/556/AT0076">
+  <data key="d0">fcl:produkt_info/556/AT0076</data>
+</node>
+<node id="Baumit ALL IN TrockenBeton 20">
+  <data key="d0">Baumit ALL IN TrockenBeton 20</data>
+</node>
+<node id="https://www.freeclass.eu/produkt_info/736/AT0031">
+  <data key="d0">https://www.freeclass.eu/produkt_info/736/AT0031</data>
+</node>
+<node id="Creteo®Shot CC 555 J2">
+  <data key="d0">Creteo®Shot CC 555 J2</data>
+</node>
+<node id="218.1619195">
+  <data key="d0">218.1619195</data>
+</node>
+<node id="3551029">
+  <data key="d0">3551029</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/ab0a0f3c-41f6-4b0a-a12c-f8bd0c8a4a23?version=20.19.120">
+  <data key="d0">obd:ab0a0f3c-41f6-4b0a-a12c-f8bd0c8a4a23?version=20.19.120</data>
+</node>
+<node id="312.8355034">
+  <data key="d0">312.8355034</data>
+</node>
+<node id="cPset_EnvironmentalImpactValues_C3">
+  <data key="d0">cPset_EnvironmentalImpactValues_C3</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/558/AT0076">
+  <data key="d0">fcl:produkt_info/558/AT0076</data>
+</node>
+<node id="Baumit PumpBeton">
+  <data key="d0">Baumit PumpBeton</data>
+</node>
+<node id="yes">
+  <data key="d0">yes</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/579/AT1490">
+  <data key="d0">fcl:produkt_info/579/AT1490</data>
+</node>
+<node id="Steine und Elemente">
+  <data key="d0">Steine und Elemente</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/739/AT0076/22596">
+  <data key="d0">fcl:produkt_info/739/AT0076/22596</data>
+</node>
+<node id="Baumit PflasterDrainmörtel GK 4 plus">
+  <data key="d0">Baumit PflasterDrainmörtel GK 4 plus</data>
+</node>
+<node id="0">
+  <data key="d0">0</data>
+</node>
+<node id="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral/prop/Pset_ConcreteElementGeneral/StrengthClass">
+  <data key="d0">bSDD:uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral/prop/Pset_ConcreteElementGeneral/StrengthClass</data>
+</node>
+<node id="Strength Class">
+  <data key="d0">Strength Class</data>
+</node>
+<node id="https://www.freeclass.de/eurobau_artikelstamm/12002501#trv">
+  <data key="d0">fcl:eurobau_artikelstamm/12002501#trv</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d2ae1721-bb2a-4386-9d9f-abb1c774b0a8?version=20.23.050">
+  <data key="d0">obd:d2ae1721-bb2a-4386-9d9f-abb1c774b0a8?version=20.23.050</data>
+</node>
+<node id="329.7597014">
+  <data key="d0">329.7597014</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8f44840b-28ae-418b-bf12-fcac5b7c68b3?version=20.20.020">
+  <data key="d0">obd:8f44840b-28ae-418b-bf12-fcac5b7c68b3?version=20.20.020</data>
+</node>
+<node id="Bims-Planstein (SFK-4)">
+  <data key="d0">Bims-Planstein (SFK-4)</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/21a40e8f-3897-4465-975b-81b6370936fb?version=20.20.020">
+  <data key="d0">obd:21a40e8f-3897-4465-975b-81b6370936fb?version=20.20.020</data>
+</node>
+<node id="175.9923338">
+  <data key="d0">175.9923338</data>
+</node>
+<node id="Spritzbeton Beton-Größtkorn 4 mm">
+  <data key="d0">Spritzbeton Beton-Größtkorn 4 mm</data>
+</node>
+<node id="https://identifier.buildingsmart.org/uri/LCA/LCA/3.0/prop/GWP_total">
+  <data key="d0">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</node>
+<node id="http://www.w3.org/2001/XMLSchema#double">
+  <data key="d0">xsd:double</data>
+</node>
+<node id="1.276486739">
+  <data key="d0">1.276486739</data>
+</node>
+<node id="0.20919133">
+  <data key="d0">0.20919133</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/bdda4364-451f-4df2-a68b-5912469ee4c9?version=20.19.120">
+  <data key="d0">obd:bdda4364-451f-4df2-a68b-5912469ee4c9?version=20.19.120</data>
+</node>
+<node id="Beton-Mauersteine">
+  <data key="d0">Beton-Mauersteine</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Stahl_und_Eisen">
+  <data key="d0">obd:Stahl_und_Eisen</data>
+</node>
+<node id="Stahl und Eisen">
+  <data key="d0">Stahl und Eisen</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/63ddb7e1-4e0b-43cb-8a8d-82c5c137a2a2?version=20.20.020">
+  <data key="d0">obd:63ddb7e1-4e0b-43cb-8a8d-82c5c137a2a2?version=20.20.020</data>
+</node>
+<node id="47.36261087">
+  <data key="d0">47.36261087</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/630/AT0986">
+  <data key="d0">fcl:produkt_info/630/AT0986</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/5c89cce2-688c-4fed-aa02-eda80ffba5f7?version=20.23.050">
+  <data key="d0">obd:5c89cce2-688c-4fed-aa02-eda80ffba5f7?version=20.23.050</data>
+</node>
+<node id="0.617424632">
+  <data key="d0">0.617424632</data>
+</node>
+<node id="-3.286369812">
+  <data key="d0">-3.286369812</data>
+</node>
+<node id="https://www.freeclass.de/eurobau_artikelstamm/1200#trv">
+  <data key="d0">fcl:eurobau_artikelstamm/1200#trv</data>
+</node>
+<node id="283.0643142">
+  <data key="d0">283.0643142</data>
+</node>
+<node id="6.802978586">
+  <data key="d0">6.802978586</data>
+</node>
+<node id="8.438178486">
+  <data key="d0">8.438178486</data>
+</node>
+<node id="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
+  <data key="d0">bSDD:uri/buildingsmart/ifc/4.3/class/IfcBuiltElement</data>
+</node>
+<node id="Blähton LB">
+  <data key="d0">Blähton LB</data>
+</node>
+<node id="78.04464808">
+  <data key="d0">78.04464808</data>
+</node>
+<node id="-3.616766705">
+  <data key="d0">-3.616766705</data>
+</node>
+<node id="https://dbpedia.org/page/Concrete">
+  <data key="d0">dbp:Concrete</data>
+</node>
+<node id="0.140978586">
+  <data key="d0">0.140978586</data>
+</node>
+<node id="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1">
+  <data key="d0">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/632/AT0986">
+  <data key="d0">fcl:produkt_info/632/AT0986</data>
+</node>
+<node id="PROFI Fliessbeton DC25/30">
+  <data key="d0">PROFI Fliessbeton DC25/30</data>
+</node>
+<node id="-3.902882519">
+  <data key="d0">-3.902882519</data>
+</node>
+<node id="Transportbeton_C20/25">
+  <data key="d0">Transportbeton_C20/25</data>
+</node>
+<node id="https://www.freeclass.de/eurobau_artikelstamm/12002504#trv">
+  <data key="d0">fcl:eurobau_artikelstamm/12002504#trv</data>
+</node>
+<node id="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3">
+  <data key="d0">bSDD:uri/buildingsmart/ifc/4.3</data>
+</node>
+<node id="PROFI Fliessbeton DC25/30 WU">
+  <data key="d0">PROFI Fliessbeton DC25/30 WU</data>
+</node>
+<node id="Recycling_Transportbeton_C20/25">
+  <data key="d0">Recycling_Transportbeton_C20/25</data>
+</node>
+<node id="-4.013092608">
+  <data key="d0">-4.013092608</data>
+</node>
+<node id="https://www.freeclass.de/eurobau_artikelstamm/12005004#trv">
+  <data key="d0">fcl:eurobau_artikelstamm/12005004#trv</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/555/AT0076">
+  <data key="d0">fcl:produkt_info/555/AT0076</data>
+</node>
+<node id="Baumit TrockenBeton 20">
+  <data key="d0">Baumit TrockenBeton 20</data>
+</node>
+<node id="242.5490161">
+  <data key="d0">242.5490161</data>
+</node>
+<node id="https://www.freeclass.de/eurobau_artikelstamm/120#trv">
+  <data key="d0">fcl:eurobau_artikelstamm/120#trv</data>
+</node>
+<node id="228.6183481">
+  <data key="d0">228.6183481</data>
+</node>
+<node id="0.311031325">
+  <data key="d0">0.311031325</data>
+</node>
+<node id="Baumit HobbyBeton">
+  <data key="d0">Baumit HobbyBeton</data>
+</node>
+<node id="Hüttensteine">
+  <data key="d0">Hüttensteine</data>
+</node>
+<node id="-3.984835459">
+  <data key="d0">-3.984835459</data>
+</node>
+<node id="IFC 4.3">
+  <data key="d0">IFC 4.3</data>
+</node>
+<node id="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D">
+  <data key="d0">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</node>
+<node id="1.317929344">
+  <data key="d0">1.317929344</data>
+</node>
+<node id="3.17457002">
+  <data key="d0">3.17457002</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Beton">
+  <data key="d0">obd:Beton</data>
+</node>
+<node id="https://identifier.buildingsmart.org/Beton">
+  <data key="d0">bSDD:Beton</data>
+</node>
+<node id="IfcBuiltElement">
+  <data key="d0">IfcBuiltElement</data>
+</node>
+<node id="https://www.freeclass.eu/produkt_info/582/AT1490">
+  <data key="d0">https://www.freeclass.eu/produkt_info/582/AT1490</data>
+</node>
+<node id="Blähton LB Hohlblockstein Trennwand">
+  <data key="d0">Blähton LB Hohlblockstein Trennwand</data>
+</node>
+<node id="6.851219671">
+  <data key="d0">6.851219671</data>
+</node>
+<node id="0.250406575">
+  <data key="d0">0.250406575</data>
+</node>
+<node id="182.391555">
+  <data key="d0">182.391555</data>
+</node>
+<node id="Beton">
+  <data key="d0">Beton</data>
+</node>
+<node id="13.94185307">
+  <data key="d0">13.94185307</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/559/AT0076">
+  <data key="d0">fcl:produkt_info/559/AT0076</data>
+</node>
+<node id="Baumit Dicht- und SichtBeton">
+  <data key="d0">Baumit Dicht- und SichtBeton</data>
+</node>
+<node id="238.8663118">
+  <data key="d0">238.8663118</data>
+</node>
+<node id="https://www.freeclass.de/eurobau_artikelstamm/12006004#trv">
+  <data key="d0">fcl:eurobau_artikelstamm/12006004#trv</data>
+</node>
+<node id="319976">
+  <data key="d0">319976</data>
+</node>
+<node id="242.3509272">
+  <data key="d0">242.3509272</data>
+</node>
+<node id="2.506555778">
+  <data key="d0">2.506555778</data>
+</node>
+<node id="Porenbeton_P4_05_bewehrt">
+  <data key="d0">Porenbeton_P4_05_bewehrt</data>
+</node>
+<node id="120 Beton">
+  <data key="d0">120 Beton</data>
+</node>
+<node id="217.0292701">
+  <data key="d0">217.0292701</data>
+</node>
+<node id="248.9199851">
+  <data key="d0">248.9199851</data>
+</node>
+<node id="Recycling_Transportbeton_C25/30">
+  <data key="d0">Recycling_Transportbeton_C25/30</data>
+</node>
+<node id="10.76125431">
+  <data key="d0">10.76125431</data>
+</node>
+<node id="https://www.freeclass.de/eurobau_artikelstamm/12002503#trv">
+  <data key="d0">fcl:eurobau_artikelstamm/12002503#trv</data>
+</node>
+<node id="15.8728501">
+  <data key="d0">15.8728501</data>
+</node>
+<node id="cPset_EnvironmentalImpactValues_A1-A3">
+  <data key="d0">cPset_EnvironmentalImpactValues_A1-A3</data>
+</node>
+<node id="Recycling_Transportbeton_C30/37">
+  <data key="d0">Recycling_Transportbeton_C30/37</data>
+</node>
+<node id="2.690313577">
+  <data key="d0">2.690313577</data>
+</node>
+<node id="0.613077197">
+  <data key="d0">0.613077197</data>
+</node>
+<node id="0.676193458">
+  <data key="d0">0.676193458</data>
+</node>
+<node id="C25/30">
+  <data key="d0">C25/30</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/634/AT0986">
+  <data key="d0">fcl:produkt_info/634/AT0986</data>
+</node>
+<node id="0.359435276">
+  <data key="d0">0.359435276</data>
+</node>
+<node id="https://www.freeclass.eu/produkt_info/636/AT0986">
+  <data key="d0">https://www.freeclass.eu/produkt_info/636/AT0986</data>
+</node>
+<node id="-3.630897907">
+  <data key="d0">-3.630897907</data>
+</node>
+<node id="GWP total">
+  <data key="d0">GWP total</data>
+</node>
+<node id="PROFI Fliessbeton C30/37">
+  <data key="d0">PROFI Fliessbeton C30/37</data>
+</node>
+<node id="0.00721909">
+  <data key="d0">0.00721909</data>
+</node>
+<node id="1200 Transportbeton">
+  <data key="d0">1200 Transportbeton</data>
+</node>
+<node id="303.3659512">
+  <data key="d0">303.3659512</data>
+</node>
+<node id="3.361008751">
+  <data key="d0">3.361008751</data>
+</node>
+<node id="http://www.w3.org/2001/XMLSchema#string">
+  <data key="d0">xsd:string</data>
+</node>
+<node id="212.6433008">
+  <data key="d0">212.6433008</data>
+</node>
+<node id="Drainage Beton Größtkorn 4 mm">
+  <data key="d0">Drainage Beton Größtkorn 4 mm</data>
+</node>
+<node id="Blähton LB Planstein Außenwand">
+  <data key="d0">Blähton LB Planstein Außenwand</data>
+</node>
+<node id="281.0739412">
+  <data key="d0">281.0739412</data>
+</node>
+<node id="Betonfertigteile und Betonwaren">
+  <data key="d0">Betonfertigteile und Betonwaren</data>
+</node>
+<node id="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Metalle">
+  <data key="d0">obd:Metalle</data>
+</node>
+<node id="Metalle">
+  <data key="d0">Metalle</data>
+</node>
+<node id="IFC">
+  <data key="d0">IFC</data>
+</node>
+<node id="-1.026415452">
+  <data key="d0">-1.026415452</data>
+</node>
+<node id="2.100114541">
+  <data key="d0">2.100114541</data>
+</node>
+<node id="https://www.freeclass.de/1202#trv/eurobau_artikelstamm">
+  <data key="d0">fcl:1202#trv/eurobau_artikelstamm</data>
+</node>
+<node id="222.9636637">
+  <data key="d0">222.9636637</data>
+</node>
+<node id="14.12378105">
+  <data key="d0">14.12378105</data>
+</node>
+<node id="185.3873766">
+  <data key="d0">185.3873766</data>
+</node>
+<node id="239.3317391">
+  <data key="d0">239.3317391</data>
+</node>
+<node id="https://identifier.buildingsmart.org/uri/Al-Qazzaz/Circularity/0.0.1/prop/Recycled">
+  <data key="d0">bSDD:uri/Al-Qazzaz/Circularity/0.0.1/prop/Recycled</data>
+</node>
+<node id="Blähton LB Planstein Innenwand">
+  <data key="d0">Blähton LB Planstein Innenwand</data>
+</node>
+<node id="-0.821592453">
+  <data key="d0">-0.821592453</data>
+</node>
+<node id="2.230283908">
+  <data key="d0">2.230283908</data>
+</node>
+<node id="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcMaterial">
+  <data key="d0">bSDD:uri/buildingsmart/ifc/4.3/class/IfcMaterial</data>
+</node>
+<node id="IFC Material">
+  <data key="d0">IFC Material</data>
+</node>
+<node id="https://dbpedia.org/page/Compressive_strength">
+  <data key="d0">dbp:Compressive_strength</data>
+</node>
+<node id="0.970129921">
+  <data key="d0">0.970129921</data>
+</node>
+<node id="PROFI Trockenbeton DC25/30">
+  <data key="d0">PROFI Trockenbeton DC25/30</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/554/AT0076">
+  <data key="d0">fcl:produkt_info/554/AT0076</data>
+</node>
+<node id="Betonrohr._bewehrt">
+  <data key="d0">Betonrohr._bewehrt</data>
+</node>
+<node id="-0.002020912">
+  <data key="d0">-0.002020912</data>
+</node>
+<node id="3.5204563">
+  <data key="d0">3.5204563</data>
+</node>
+<node id="https://www.freeclass.eu/produkt_info/635/AT0986">
+  <data key="d0">https://www.freeclass.eu/produkt_info/635/AT0986</data>
+</node>
+<node id="PROFI Trockenspritzbeton SP GK8">
+  <data key="d0">PROFI Trockenspritzbeton SP GK8</data>
+</node>
+<node id="2.030350996">
+  <data key="d0">2.030350996</data>
+</node>
+<node id="1.787081434">
+  <data key="d0">1.787081434</data>
+</node>
+<node id="-4.107962265">
+  <data key="d0">-4.107962265</data>
+</node>
+<node id="Betonfertigteil_Treppe_(1.1_m_Breite._9_Stufen_a_16_cm)">
+  <data key="d0">Betonfertigteil_Treppe_(1.1_m_Breite._9_Stufen_a_16_cm)</data>
+</node>
+<node id="352.8376043">
+  <data key="d0">352.8376043</data>
+</node>
+<node id="398.4009055">
+  <data key="d0">398.4009055</data>
+</node>
+<node id="Creteo®Gala CC 633">
+  <data key="d0">Creteo®Gala CC 633</data>
+</node>
+<node id="Transportbeton C25/30 B4">
+  <data key="d0">Transportbeton C25/30 B4</data>
+</node>
+<node id="4.084757564">
+  <data key="d0">4.084757564</data>
+</node>
+<node id="263.192077">
+  <data key="d0">263.192077</data>
+</node>
+<node id="https://www.freeclass.de/eurobau_artikelstamm/12#trv">
+  <data key="d0">fcl:eurobau_artikelstamm/12#trv</data>
+</node>
+<node id="Pumpbeton C25/30 GK 4 mm">
+  <data key="d0">Pumpbeton C25/30 GK 4 mm</data>
+</node>
+<node id="Betonrohr._unbewehrt">
+  <data key="d0">Betonrohr._unbewehrt</data>
+</node>
+<node id="0.150445554">
+  <data key="d0">0.150445554</data>
+</node>
+<node id="Spritzbeton B350">
+  <data key="d0">Spritzbeton B350</data>
+</node>
+<node id="0.67356176">
+  <data key="d0">0.67356176</data>
+</node>
+<node id="-0.985516579">
+  <data key="d0">-0.985516579</data>
+</node>
+<node id="0.002785062">
+  <data key="d0">0.002785062</data>
+</node>
+<node id="6.025017407">
+  <data key="d0">6.025017407</data>
+</node>
+<node id="1.392530988">
+  <data key="d0">1.392530988</data>
+</node>
+<node id="0.132191415">
+  <data key="d0">0.132191415</data>
+</node>
+<node id="Reinforcement Area Ratio">
+  <data key="d0">Reinforcement Area Ratio</data>
+</node>
+<node id="2.244422486">
+  <data key="d0">2.244422486</data>
+</node>
+<node id="-0.78051283">
+  <data key="d0">-0.78051283</data>
+</node>
+<node id="kg CO2/m2">
+  <data key="d0">kg CO2/m2</data>
+</node>
+<node id="222.6049535">
+  <data key="d0">222.6049535</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/581/AT1490">
+  <data key="d0">fcl:produkt_info/581/AT1490</data>
+</node>
+<node id="Trockenbeton B300">
+  <data key="d0">Trockenbeton B300</data>
+</node>
+<node id="Trockenbeton C30/37">
+  <data key="d0">Trockenbeton C30/37</data>
+</node>
+<node id="Porenbeton">
+  <data key="d0">Porenbeton</data>
+</node>
+<node id="Betonfertigteil_Decke_20cm">
+  <data key="d0">Betonfertigteil_Decke_20cm</data>
+</node>
+<node id="226.3260792">
+  <data key="d0">226.3260792</data>
+</node>
+<node id="https://dbpedia.org/page/kg_CO2_pcs">
+  <data key="d0">dbp:kg_CO2_pcs</data>
+</node>
+<node id="-1.026990566">
+  <data key="d0">-1.026990566</data>
+</node>
+<node id="Transportbeton C25/30 B1">
+  <data key="d0">Transportbeton C25/30 B1</data>
+</node>
+<node id="Transportbeton C20/25 B7 GK 32 mm">
+  <data key="d0">Transportbeton C20/25 B7 GK 32 mm</data>
+</node>
+<node id="1201 Blähtonbeton">
+  <data key="d0">1201 Blähtonbeton</data>
+</node>
+<node id="Transportbeton_C30/37">
+  <data key="d0">Transportbeton_C30/37</data>
+</node>
+<node id="Leichtbeton">
+  <data key="d0">Leichtbeton</data>
+</node>
+<node id="Leichtbetonstein_aus_100_Prozent_Naturbims">
+  <data key="d0">Leichtbetonstein_aus_100_Prozent_Naturbims</data>
+</node>
+<node id="3.668609423">
+  <data key="d0">3.668609423</data>
+</node>
+<node id="1.054343475">
+  <data key="d0">1.054343475</data>
+</node>
+<node id="14.2239352">
+  <data key="d0">14.2239352</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/627/AT0986">
+  <data key="d0">fcl:produkt_info/627/AT0986</data>
+</node>
+<node id="0.007337219">
+  <data key="d0">0.007337219</data>
+</node>
+<node id="267.1326394">
+  <data key="d0">267.1326394</data>
+</node>
+<node id="327.5596914">
+  <data key="d0">327.5596914</data>
+</node>
+<node id="Transportbeton_C25/30">
+  <data key="d0">Transportbeton_C25/30</data>
+</node>
+<node id="C50/60">
+  <data key="d0">C50/60</data>
+</node>
+<node id="Transportbeton C25/30 B3">
+  <data key="d0">Transportbeton C25/30 B3</data>
+</node>
+<node id="1.403671236">
+  <data key="d0">1.403671236</data>
+</node>
+<node id="385.78692">
+  <data key="d0">385.78692</data>
+</node>
+<node id="1.021189391">
+  <data key="d0">1.021189391</data>
+</node>
+<node id="PROFI Trockenspritzbeton SP GK4">
+  <data key="d0">PROFI Trockenspritzbeton SP GK4</data>
+</node>
+<node id="0.362310758">
+  <data key="d0">0.362310758</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/580/AT1490">
+  <data key="d0">fcl:produkt_info/580/AT1490</data>
+</node>
+<node id="Faser-Trockenbeton B225F">
+  <data key="d0">Faser-Trockenbeton B225F</data>
+</node>
+<node id="1.006418771">
+  <data key="d0">1.006418771</data>
+</node>
+<node id="cPset_EnvironmentalImpactValues_D">
+  <data key="d0">cPset_EnvironmentalImpactValues_D</data>
+</node>
+<node id="343.7623072">
+  <data key="d0">343.7623072</data>
+</node>
+<node id="1.412580633">
+  <data key="d0">1.412580633</data>
+</node>
+<node id="258.1184091">
+  <data key="d0">258.1184091</data>
+</node>
+<node id="42.96902575">
+  <data key="d0">42.96902575</data>
+</node>
+<node id="10.27210638">
+  <data key="d0">10.27210638</data>
+</node>
+<node id="Porenbeton_Granulat">
+  <data key="d0">Porenbeton_Granulat</data>
+</node>
+<node id="84.47914226">
+  <data key="d0">84.47914226</data>
+</node>
+<node id="12 Rohbau. Konstruktion">
+  <data key="d0">12 Rohbau. Konstruktion</data>
+</node>
+<node id="2.03122474">
+  <data key="d0">2.03122474</data>
+</node>
+<node id="-1.848583019">
+  <data key="d0">-1.848583019</data>
+</node>
+<node id="Transportbeton_C50/60">
+  <data key="d0">Transportbeton_C50/60</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/628/AT0986">
+  <data key="d0">fcl:produkt_info/628/AT0986</data>
+</node>
+<node id="PROFI Beton 4 mm">
+  <data key="d0">PROFI Beton 4 mm</data>
+</node>
+<node id="Baumit TrockenBeton 30">
+  <data key="d0">Baumit TrockenBeton 30</data>
+</node>
+<node id="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/Pset_MaterialConcrete">
+  <data key="d0">bSDD:uri/buildingsmart/ifc/4.3/class/Pset_MaterialConcrete</data>
+</node>
+<node id="-1.437786793">
+  <data key="d0">-1.437786793</data>
+</node>
+<node id="-0.58790609">
+  <data key="d0">-0.58790609</data>
+</node>
+<node id="3.362891971">
+  <data key="d0">3.362891971</data>
+</node>
+<node id="85.9531013">
+  <data key="d0">85.9531013</data>
+</node>
+<node id="cPset_EnvironmentalImpactValues_C1">
+  <data key="d0">cPset_EnvironmentalImpactValues_C1</data>
+</node>
+<node id="https://www.freeclass.de/produkt_info/727/AT0031">
+  <data key="d0">fcl:produkt_info/727/AT0031</data>
+</node>
+<node id="324.0369363">
+  <data key="d0">324.0369363</data>
+</node>
+<node id="global warming potential - total">
+  <data key="d0">global warming potential - total</data>
+</node>
+<node id="Life-cycle assessment properties">
+  <data key="d0">Life-cycle assessment properties</data>
+</node>
+<node id="Trockenbeton C25/30">
+  <data key="d0">Trockenbeton C25/30</data>
+</node>
+<node id="6.603496961">
+  <data key="d0">6.603496961</data>
+</node>
+<node id="Creteo®Standard 990 DC 30/37">
+  <data key="d0">Creteo®Standard 990 DC 30/37</data>
+</node>
+<node id="Trockenbeton C16/20">
+  <data key="d0">Trockenbeton C16/20</data>
+</node>
+<node id="303.4689735">
+  <data key="d0">303.4689735</data>
+</node>
+<node id="347.2850623">
+  <data key="d0">347.2850623</data>
+</node>
+<node id="kg CO2/kg">
+  <data key="d0">kg CO2/kg</data>
+</node>
+<node id="https://identifier.buildingsmart.org/IfcMaterial">
+  <data key="d0">bSDD:IfcMaterial</data>
+</node>
+<node id="365.1396426">
+  <data key="d0">365.1396426</data>
+</node>
+<node id="Recycling_Transportbeton_C50/60">
+  <data key="d0">Recycling_Transportbeton_C50/60</data>
+</node>
+<node id="5.105946955">
+  <data key="d0">5.105946955</data>
+</node>
+<node id="172.0504633">
+  <data key="d0">172.0504633</data>
+</node>
+<node id="Porenbeton_P2_04_unbewehrt">
+  <data key="d0">Porenbeton_P2_04_unbewehrt</data>
+</node>
+<node id="-2.875573586">
+  <data key="d0">-2.875573586</data>
+</node>
+<node id="Drainage Beton Größtkorn 8 mm">
+  <data key="d0">Drainage Beton Größtkorn 8 mm</data>
+</node>
+<node id="https://dbpedia.org/page/Recycling">
+  <data key="d0">dbp:Recycling</data>
+</node>
+<node id="0.263585869">
+  <data key="d0">0.263585869</data>
+</node>
+<node id="4.708048759">
+  <data key="d0">4.708048759</data>
+</node>
+<node id="kg CO2/pcs">
+  <data key="d0">kg CO2/pcs</data>
+</node>
+<node id="615355365">
+  <data key="d0">615355365</data>
+</node>
+<node id="http://www.w3.org/2001/XMLSchema#boolean">
+  <data key="d0">xsd:boolean</data>
+</node>
+<node id="Trockenbeton B225">
+  <data key="d0">Trockenbeton B225</data>
+</node>
+<node id="Mineralische Baustoffe">
+  <data key="d0">Mineralische Baustoffe</data>
+</node>
+<node id="PROFI Einfach Schnell Beton">
+  <data key="d0">PROFI Einfach Schnell Beton</data>
+</node>
+<node id="1202 Zusatzmittel. Haftbrücken f. Beton- und Mörtel">
+  <data key="d0">1202 Zusatzmittel. Haftbrücken f. Beton- und Mörtel</data>
+</node>
+<node id="https://dbpedia.org/page/Life-cycle_assessment">
+  <data key="d0">dbp:Life-cycle_assessment</data>
+</node>
+<node id="5.284682102">
+  <data key="d0">5.284682102</data>
+</node>
+<node id="0.646983496">
+  <data key="d0">0.646983496</data>
+</node>
+<node id="kg CO2/m3">
+  <data key="d0">kg CO2/m3</data>
+</node>
+<node id="Recycled">
+  <data key="d0">Recycled</data>
+</node>
+<node id="-0.002053981">
+  <data key="d0">-0.002053981</data>
+</node>
+<node id="7.503843911">
+  <data key="d0">7.503843911</data>
+</node>
+<node id="13.45156788">
+  <data key="d0">13.45156788</data>
+</node>
+<node id="5.472646782">
+  <data key="d0">5.472646782</data>
+</node>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/899ad6d2-c598-4831-bc0a-8638aa034a69?version=20.23.050" target="219.2800857">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/899ad6d2-c598-4831-bc0a-8638aa034a69?version=20.23.050" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Transportbeton">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/899ad6d2-c598-4831-bc0a-8638aa034a69?version=20.23.050" target="yes">
+  <data key="d1">bSDD:uri/Al-Qazzaz/Circularity/0.0.1/prop/Recycled</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/899ad6d2-c598-4831-bc0a-8638aa034a69?version=20.23.050" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/899ad6d2-c598-4831-bc0a-8638aa034a69?version=20.23.050" target="-3.984835459">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/899ad6d2-c598-4831-bc0a-8638aa034a69?version=20.23.050" target="238.8663118">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/899ad6d2-c598-4831-bc0a-8638aa034a69?version=20.23.050" target="Recycling_Transportbeton_C25/30">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/899ad6d2-c598-4831-bc0a-8638aa034a69?version=20.23.050" target="0.613077197">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/899ad6d2-c598-4831-bc0a-8638aa034a69?version=20.23.050" target="C25/30">
+  <data key="d1">bSDD:uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral/prop/Pset_ConcreteElementGeneral/StrengthClass</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/899ad6d2-c598-4831-bc0a-8638aa034a69?version=20.23.050" target="14.12378105">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/899ad6d2-c598-4831-bc0a-8638aa034a69?version=20.23.050" target="https://dbpedia.org/page/kg_CO2_m3">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/899ad6d2-c598-4831-bc0a-8638aa034a69?version=20.23.050" target="2.03122474">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_A4</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/899ad6d2-c598-4831-bc0a-8638aa034a69?version=20.23.050" target="6.802978586">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/560/AT0076" target="https://www.freeclass.de/eurobau_artikelstamm/12005525#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/560/AT0076" target="Baumit HobbyBeton">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12005525#trv" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12005525#trv" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d2ae1721-bb2a-4386-9d9f-abb1c774b0a8?version=20.23.050">
+  <data key="d1">skos:narrowMatch</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12005525#trv" target="Trockenbeton C25/30">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12005525#trv" target="https://www.freeclass.de/eurobau_artikelstamm/1200#trv">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Leichtbeton" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Steine_und_Elemente">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Leichtbeton" target="https://dbpedia.org/page/Foam_Concrete">
+  <data key="d1">skos:closeMatch</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Leichtbeton" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Leichtbeton" target="Leichtbeton">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Steine_und_Elemente" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Mineralische_Baustoffe">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Steine_und_Elemente" target="Steine und Elemente">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Steine_und_Elemente" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1a43ae76-2dc9-4a3a-9926-47e7137e773d?version=20.19.120" target="-0.969479095">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1a43ae76-2dc9-4a3a-9926-47e7137e773d?version=20.19.120" target="Porenbeton_P4_05_unbewehrt">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1a43ae76-2dc9-4a3a-9926-47e7137e773d?version=20.19.120" target="1.205003481">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1a43ae76-2dc9-4a3a-9926-47e7137e773d?version=20.19.120" target="https://dbpedia.org/page/kg_CO2_m3">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1a43ae76-2dc9-4a3a-9926-47e7137e773d?version=20.19.120" target="0.311031325">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1a43ae76-2dc9-4a3a-9926-47e7137e773d?version=20.19.120" target="3.17457002">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1a43ae76-2dc9-4a3a-9926-47e7137e773d?version=20.19.120" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Porenbeton">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1a43ae76-2dc9-4a3a-9926-47e7137e773d?version=20.19.120" target="222.6049535">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1a43ae76-2dc9-4a3a-9926-47e7137e773d?version=20.19.120" target="226.3260792">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1a43ae76-2dc9-4a3a-9926-47e7137e773d?version=20.19.120" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/633/AT0986" target="https://www.freeclass.de/eurobau_artikelstamm/12005525#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/633/AT0986" target="PROFI Fliessbeton DC25/30 WU">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b342696e-2ebb-4fe1-a71d-f3520db0cee9?version=20.19.120" target="0.810453035">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b342696e-2ebb-4fe1-a71d-f3520db0cee9?version=20.19.120" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Betonfertigteile_und_Betonwaren">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b342696e-2ebb-4fe1-a71d-f3520db0cee9?version=20.19.120" target="41.50863986">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b342696e-2ebb-4fe1-a71d-f3520db0cee9?version=20.19.120" target="38.97678704">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b342696e-2ebb-4fe1-a71d-f3520db0cee9?version=20.19.120" target="Betonfertigteil_Wand_12cm">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b342696e-2ebb-4fe1-a71d-f3520db0cee9?version=20.19.120" target="0.20919133">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b342696e-2ebb-4fe1-a71d-f3520db0cee9?version=20.19.120" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b342696e-2ebb-4fe1-a71d-f3520db0cee9?version=20.19.120" target="2.100114541">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b342696e-2ebb-4fe1-a71d-f3520db0cee9?version=20.19.120" target="-0.58790609">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b342696e-2ebb-4fe1-a71d-f3520db0cee9?version=20.19.120" target="https://dbpedia.org/page/kg_CO2_m2">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/ReinforcementAreaRatio" target="http://www.w3.org/2002/07/owl#Property">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/ReinforcementAreaRatio" target="Reinforcement Area Ratio">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/ReinforcementAreaRatio" target="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral">
+  <data key="d1">rdfs:domain</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/ReinforcementAreaRatio" target="http://www.w3.org/2001/XMLSchema#double">
+  <data key="d1">rdfs:range</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9357b7fc-cf0a-45fc-8299-e794e3889a40?version=20.19.120" target="https://dbpedia.org/page/kg_CO2_m2">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9357b7fc-cf0a-45fc-8299-e794e3889a40?version=20.19.120" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Betonfertigteile_und_Betonwaren">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9357b7fc-cf0a-45fc-8299-e794e3889a40?version=20.19.120" target="88.78006398">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9357b7fc-cf0a-45fc-8299-e794e3889a40?version=20.19.120" target="3.5204563">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9357b7fc-cf0a-45fc-8299-e794e3889a40?version=20.19.120" target="-0.985516579">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9357b7fc-cf0a-45fc-8299-e794e3889a40?version=20.19.120" target="Betonfertigteil_Decke_20cm">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9357b7fc-cf0a-45fc-8299-e794e3889a40?version=20.19.120" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9357b7fc-cf0a-45fc-8299-e794e3889a40?version=20.19.120" target="1.403671236">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9357b7fc-cf0a-45fc-8299-e794e3889a40?version=20.19.120" target="0.362310758">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9357b7fc-cf0a-45fc-8299-e794e3889a40?version=20.19.120" target="84.47914226">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://dbpedia.org/page/kg_CO2_m2" target="kg CO2/m2">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://dbpedia.org/page/kg_CO2_m2" target="https://dbpedia.org/property/unit">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/MassDensity" target="https://identifier.buildingsmart.org/uri/buildingsmart/ifc">
+  <data key="d1">rdfs:PropertyOf</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/MassDensity" target="http://www.w3.org/2002/07/owl#Property">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/MassDensity" target="Concrete Density">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/MassDensity" target="http://www.w3.org/2001/XMLSchema#double">
+  <data key="d1">rdfs:range</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc" target="IFC">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a758fb6a-7fb1-4cdc-b652-c42cf2f7632c?version=20.20.020" target="C30/37">
+  <data key="d1">bSDD:uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral/prop/Pset_ConcreteElementGeneral/StrengthClass</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a758fb6a-7fb1-4cdc-b652-c42cf2f7632c?version=20.20.020" target="1.696008299">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_A4</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a758fb6a-7fb1-4cdc-b652-c42cf2f7632c?version=20.20.020" target="-4.847395473">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a758fb6a-7fb1-4cdc-b652-c42cf2f7632c?version=20.20.020" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Transportbeton">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a758fb6a-7fb1-4cdc-b652-c42cf2f7632c?version=20.20.020" target="283.0643142">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a758fb6a-7fb1-4cdc-b652-c42cf2f7632c?version=20.20.020" target="https://dbpedia.org/page/kg_CO2_m3">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a758fb6a-7fb1-4cdc-b652-c42cf2f7632c?version=20.20.020" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a758fb6a-7fb1-4cdc-b652-c42cf2f7632c?version=20.20.020" target="15.8728501">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a758fb6a-7fb1-4cdc-b652-c42cf2f7632c?version=20.20.020" target="303.3659512">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a758fb6a-7fb1-4cdc-b652-c42cf2f7632c?version=20.20.020" target="1.555156625">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a758fb6a-7fb1-4cdc-b652-c42cf2f7632c?version=20.20.020" target="6.025017407">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a758fb6a-7fb1-4cdc-b652-c42cf2f7632c?version=20.20.020" target="Transportbeton_C30/37">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9702d9ab-2af2-4fdc-9d99-225583a9ffb7?version=20.20.020" target="C20/25">
+  <data key="d1">bSDD:uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral/prop/Pset_ConcreteElementGeneral/StrengthClass</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9702d9ab-2af2-4fdc-9d99-225583a9ffb7?version=20.20.020" target="1.696008299">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9702d9ab-2af2-4fdc-9d99-225583a9ffb7?version=20.20.020" target="1.555156625">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9702d9ab-2af2-4fdc-9d99-225583a9ffb7?version=20.20.020" target="Transportbeton_C20/25">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9702d9ab-2af2-4fdc-9d99-225583a9ffb7?version=20.20.020" target="228.6183481">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9702d9ab-2af2-4fdc-9d99-225583a9ffb7?version=20.20.020" target="248.9199851">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9702d9ab-2af2-4fdc-9d99-225583a9ffb7?version=20.20.020" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9702d9ab-2af2-4fdc-9d99-225583a9ffb7?version=20.20.020" target="-4.847395473">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9702d9ab-2af2-4fdc-9d99-225583a9ffb7?version=20.20.020" target="15.8728501">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9702d9ab-2af2-4fdc-9d99-225583a9ffb7?version=20.20.020" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Transportbeton">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/9702d9ab-2af2-4fdc-9d99-225583a9ffb7?version=20.20.020" target="https://dbpedia.org/page/kg_CO2_m3">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/645/AT0986" target="PROFI Drainbeton">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/645/AT0986" target="https://www.freeclass.de/eurobau_artikelstamm/12006004#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/0eada728-b626-4f79-ba67-020635b4e67f?version=20.19.120" target="0.000718871">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/0eada728-b626-4f79-ba67-020635b4e67f?version=20.19.120" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/0eada728-b626-4f79-ba67-020635b4e67f?version=20.19.120" target="https://dbpedia.org/page/kg_CO2_kg">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/0eada728-b626-4f79-ba67-020635b4e67f?version=20.19.120" target="0.140978586">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/0eada728-b626-4f79-ba67-020635b4e67f?version=20.19.120" target="Betonrohr._unbewehrt">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/0eada728-b626-4f79-ba67-020635b4e67f?version=20.19.120" target="0.132191415">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/0eada728-b626-4f79-ba67-020635b4e67f?version=20.19.120" target="0.007337219">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/0eada728-b626-4f79-ba67-020635b4e67f?version=20.19.120" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Betonfertigteile_und_Betonwaren">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/0eada728-b626-4f79-ba67-020635b4e67f?version=20.19.120" target="-0.002053981">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/0eada728-b626-4f79-ba67-020635b4e67f?version=20.19.120" target="0.002785062">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b38f2dac-fa08-4a9c-ae8d-017f6e2f169f?version=20.23.050" target="15.6014704">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b38f2dac-fa08-4a9c-ae8d-017f6e2f169f?version=20.23.050" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b38f2dac-fa08-4a9c-ae8d-017f6e2f169f?version=20.23.050" target="https://dbpedia.org/page/kg_CO2_m3">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b38f2dac-fa08-4a9c-ae8d-017f6e2f169f?version=20.23.050" target="Recycling_Transportbeton_C30/37">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b38f2dac-fa08-4a9c-ae8d-017f6e2f169f?version=20.23.050" target="0.676193458">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b38f2dac-fa08-4a9c-ae8d-017f6e2f169f?version=20.23.050" target="-3.630897907">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b38f2dac-fa08-4a9c-ae8d-017f6e2f169f?version=20.23.050" target="281.0739412">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b38f2dac-fa08-4a9c-ae8d-017f6e2f169f?version=20.23.050" target="2.244422486">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_A4</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b38f2dac-fa08-4a9c-ae8d-017f6e2f169f?version=20.23.050" target="C30/37">
+  <data key="d1">bSDD:uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral/prop/Pset_ConcreteElementGeneral/StrengthClass</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b38f2dac-fa08-4a9c-ae8d-017f6e2f169f?version=20.23.050" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Transportbeton">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b38f2dac-fa08-4a9c-ae8d-017f6e2f169f?version=20.23.050" target="303.4689735">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b38f2dac-fa08-4a9c-ae8d-017f6e2f169f?version=20.23.050" target="yes">
+  <data key="d1">bSDD:uri/Al-Qazzaz/Circularity/0.0.1/prop/Recycled</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/b38f2dac-fa08-4a9c-ae8d-017f6e2f169f?version=20.23.050" target="7.503843911">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.freeclass.eu/produkt_info/733/AT0031" target="Creteo®Shot CC 575">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.eu/produkt_info/733/AT0031" target="https://www.freeclass.de/eurobau_artikelstamm/12010504#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Transportbeton" target="Transportbeton">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Transportbeton" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Transportbeton" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Beton">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/6739667a-49d1-4a9c-a4b2-eb542167710c?version=20.23.050" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/6739667a-49d1-4a9c-a4b2-eb542167710c?version=20.23.050" target="7.474639473">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/6739667a-49d1-4a9c-a4b2-eb542167710c?version=20.23.050" target="15.54075056">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/6739667a-49d1-4a9c-a4b2-eb542167710c?version=20.23.050" target="C20/25">
+  <data key="d1">bSDD:uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral/prop/Pset_ConcreteElementGeneral/StrengthClass</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/6739667a-49d1-4a9c-a4b2-eb542167710c?version=20.23.050" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Transportbeton">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/6739667a-49d1-4a9c-a4b2-eb542167710c?version=20.23.050" target="-3.616766705">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/6739667a-49d1-4a9c-a4b2-eb542167710c?version=20.23.050" target="Recycling_Transportbeton_C20/25">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/6739667a-49d1-4a9c-a4b2-eb542167710c?version=20.23.050" target="217.0292701">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/6739667a-49d1-4a9c-a4b2-eb542167710c?version=20.23.050" target="https://dbpedia.org/page/kg_CO2_m3">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/6739667a-49d1-4a9c-a4b2-eb542167710c?version=20.23.050" target="239.3317391">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/6739667a-49d1-4a9c-a4b2-eb542167710c?version=20.23.050" target="2.230283908">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_A4</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/6739667a-49d1-4a9c-a4b2-eb542167710c?version=20.23.050" target="0.67356176">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/6739667a-49d1-4a9c-a4b2-eb542167710c?version=20.23.050" target="yes">
+  <data key="d1">bSDD:uri/Al-Qazzaz/Circularity/0.0.1/prop/Recycled</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_A4" target="cPset_EnvironmentalImpactValues_A4">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_A4" target="http://www.w3.org/2002/07/owl#DatatypeProperty">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_A4" target="http://www.w3.org/2001/XMLSchema#double">
+  <data key="d1">rdfs:range</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_A4" target="https://identifier.buildingsmart.org/cPset_EnvironmentalImpactValues_A1_A3">
+  <data key="d1">rdfs:subPropertyOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Porenbeton" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Leichtbeton">
+  <data key="d1">skos:narrowMatch</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Porenbeton" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Steine_und_Elemente">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Porenbeton" target="Porenbeton">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Porenbeton" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/557/AT0076/22457" target="Baumit DrainBeton">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/557/AT0076/22457" target="https://www.freeclass.de/eurobau_artikelstamm/12006008#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a4fceab4-71a2-46c9-ac9a-19a964d48ce5?version=20.19.120" target="3.899086766">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a4fceab4-71a2-46c9-ac9a-19a964d48ce5?version=20.19.120" target="https://dbpedia.org/page/kg_CO2_m3">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a4fceab4-71a2-46c9-ac9a-19a964d48ce5?version=20.19.120" target="Hüttensteine">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a4fceab4-71a2-46c9-ac9a-19a964d48ce5?version=20.19.120" target="352.8376043">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a4fceab4-71a2-46c9-ac9a-19a964d48ce5?version=20.19.120" target="1.006418771">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a4fceab4-71a2-46c9-ac9a-19a964d48ce5?version=20.19.120" target="10.27210638">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a4fceab4-71a2-46c9-ac9a-19a964d48ce5?version=20.19.120" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a4fceab4-71a2-46c9-ac9a-19a964d48ce5?version=20.19.120" target="365.1396426">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a4fceab4-71a2-46c9-ac9a-19a964d48ce5?version=20.19.120" target="-2.875573586">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a4fceab4-71a2-46c9-ac9a-19a964d48ce5?version=20.19.120" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Leichtbeton">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral" target="Pset_MaterialConcrete">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral" target="https://www.freeclass.eu/eurobau_artikelstamm/120#trv">
+  <data key="d1">skos:sameAs</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral" target="https://dbpedia.org/page/Concrete">
+  <data key="d1">skos:sameAs</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral" target="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcMaterial">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8565038f-5c21-48d7-94cb-958498ba9dd3?version=20.23.050" target="Betonstahlmatten">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8565038f-5c21-48d7-94cb-958498ba9dd3?version=20.23.050" target="144466961">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8565038f-5c21-48d7-94cb-958498ba9dd3?version=20.23.050" target="0.763693331">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8565038f-5c21-48d7-94cb-958498ba9dd3?version=20.23.050" target="3551029">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8565038f-5c21-48d7-94cb-958498ba9dd3?version=20.23.050" target="0">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8565038f-5c21-48d7-94cb-958498ba9dd3?version=20.23.050" target="319976">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8565038f-5c21-48d7-94cb-958498ba9dd3?version=20.23.050" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Stahl_und_Eisen">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8565038f-5c21-48d7-94cb-958498ba9dd3?version=20.23.050" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8565038f-5c21-48d7-94cb-958498ba9dd3?version=20.23.050" target="https://dbpedia.org/page/kg_CO2_kg">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8565038f-5c21-48d7-94cb-958498ba9dd3?version=20.23.050" target="615355365">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/cPset_EnvironmentalImpactValues_A1_A3" target="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties">
+  <data key="d1">rdfs:subPropertyOf</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/cPset_EnvironmentalImpactValues_A1_A3" target="cPset_EnvironmentalImpactValues_A1-A3">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/cPset_EnvironmentalImpactValues_A1_A3" target="http://www.w3.org/2001/XMLSchema#double">
+  <data key="d1">rdfs:range</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/cPset_EnvironmentalImpactValues_A1_A3" target="http://www.w3.org/2002/07/owl#DatatypeProperty">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties" target="http://www.w3.org/2002/07/owl#Property">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties" target="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/Pset_MaterialConcrete">
+  <data key="d1">rdfs:subPropertyOf</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties" target="Life-cycle assessment properties">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties" target="https://dbpedia.org/page/Life-cycle_assessment">
+  <data key="d1">skos:sameAs</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/1201#trv" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/1201#trv" target="1201 Blähtonbeton">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/1201#trv" target="https://www.freeclass.de/eurobau_artikelstamm/120#trv">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12002732#trv" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12002732#trv" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/6739667a-49d1-4a9c-a4b2-eb542167710c?version=20.23.050">
+  <data key="d1">skos:narrowMatch</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12002732#trv" target="Transportbeton C20/25 B7 GK 32 mm">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12002732#trv" target="https://www.freeclass.de/eurobau_artikelstamm/1200#trv">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.freeclass.eu/eurobau_artikelstamm/120#trv" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.eu/eurobau_artikelstamm/120#trv" target="120 Beton">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.eu/eurobau_artikelstamm/120#trv" target="https://www.freeclass.de/eurobau_artikelstamm/12#trv">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/57a87943-dbdd-4221-bbd2-481b8fcd1d2b?version=20.19.120" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Porenbeton">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/57a87943-dbdd-4221-bbd2-481b8fcd1d2b?version=20.19.120" target="8.438178486">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/57a87943-dbdd-4221-bbd2-481b8fcd1d2b?version=20.19.120" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/57a87943-dbdd-4221-bbd2-481b8fcd1d2b?version=20.19.120" target="2.690313577">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/57a87943-dbdd-4221-bbd2-481b8fcd1d2b?version=20.19.120" target="-0.821592453">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/57a87943-dbdd-4221-bbd2-481b8fcd1d2b?version=20.19.120" target="https://dbpedia.org/page/kg_CO2_m3">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/57a87943-dbdd-4221-bbd2-481b8fcd1d2b?version=20.19.120" target="1.021189391">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/57a87943-dbdd-4221-bbd2-481b8fcd1d2b?version=20.19.120" target="Porenbeton_Granulat">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/57a87943-dbdd-4221-bbd2-481b8fcd1d2b?version=20.19.120" target="0.263585869">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/57a87943-dbdd-4221-bbd2-481b8fcd1d2b?version=20.19.120" target="5.284682102">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Betonfertigteile_und_Betonwaren" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Steine_und_Elemente">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Betonfertigteile_und_Betonwaren" target="Betonfertigteile und Betonwaren">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Betonfertigteile_und_Betonwaren" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://dbpedia.org/page/kg_CO2_m3" target="https://dbpedia.org/property/unit">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://dbpedia.org/page/kg_CO2_m3" target="kg CO2/m3">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1b978129-dd5e-45ea-9c82-1c3510e9c965?version=20.20.020" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Blähton_LB">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1b978129-dd5e-45ea-9c82-1c3510e9c965?version=20.20.020" target="0.46127527">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1b978129-dd5e-45ea-9c82-1c3510e9c965?version=20.20.020" target="218.1619195">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1b978129-dd5e-45ea-9c82-1c3510e9c965?version=20.20.020" target="212.6433008">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1b978129-dd5e-45ea-9c82-1c3510e9c965?version=20.20.020" target="Blähton LB Planstein Innenwand">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1b978129-dd5e-45ea-9c82-1c3510e9c965?version=20.20.020" target="1.787081434">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1b978129-dd5e-45ea-9c82-1c3510e9c965?version=20.20.020" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1b978129-dd5e-45ea-9c82-1c3510e9c965?version=20.20.020" target="https://dbpedia.org/page/kg_CO2_m3">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1b978129-dd5e-45ea-9c82-1c3510e9c965?version=20.20.020" target="-1.437786793">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/1b978129-dd5e-45ea-9c82-1c3510e9c965?version=20.20.020" target="4.708048759">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Blähton_LB" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Leichtbeton">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Blähton_LB" target="Blähton LB">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Blähton_LB" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d3b59cac-3b4e-4d18-8c3a-780b553c9591?version=20.19.120" target="0.329482336">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d3b59cac-3b4e-4d18-8c3a-780b553c9591?version=20.19.120" target="https://dbpedia.org/page/kg_CO2_m3">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d3b59cac-3b4e-4d18-8c3a-780b553c9591?version=20.19.120" target="1.276486739">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d3b59cac-3b4e-4d18-8c3a-780b553c9591?version=20.19.120" target="Porenbeton_P4_05_bewehrt">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d3b59cac-3b4e-4d18-8c3a-780b553c9591?version=20.19.120" target="3.361008751">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d3b59cac-3b4e-4d18-8c3a-780b553c9591?version=20.19.120" target="-1.026415452">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d3b59cac-3b4e-4d18-8c3a-780b553c9591?version=20.19.120" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Porenbeton">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d3b59cac-3b4e-4d18-8c3a-780b553c9591?version=20.19.120" target="263.192077">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d3b59cac-3b4e-4d18-8c3a-780b553c9591?version=20.19.120" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d3b59cac-3b4e-4d18-8c3a-780b553c9591?version=20.19.120" target="267.1326394">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/517/AT0522" target="Trockenbeton C 25/30 - Trockenestrich C 30-F5">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/517/AT0522" target="https://www.freeclass.de/eurobau_artikelstamm/12005525#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/529/AT0052" target="LANG Ing. Hans">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/529/AT0052" target="https://www.freeclass.de/eurobau_artikelstamm/12002732#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/529/AT0052" target="https://www.freeclass.de/eurobau_artikelstamm/12002501#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/529/AT0052" target="https://www.freeclass.de/eurobau_artikelstamm/12002504#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/529/AT0052" target="https://www.freeclass.de/eurobau_artikelstamm/12002503#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/553/AT0076" target="Baumit NixMix Beton">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/553/AT0076" target="https://www.freeclass.de/eurobau_artikelstamm/12005516#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12010508#trv" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12010508#trv" target="Spritzbeton Beton-Größtkorn 8 mm">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12010508#trv" target="https://www.freeclass.de/eurobau_artikelstamm/1201#trv">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2" target="cPset_EnvironmentalImpactValues_C2">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2" target="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties">
+  <data key="d1">rdfs:subPropertyOf</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2" target="http://www.w3.org/2001/XMLSchema#double">
+  <data key="d1">rdfs:range</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2" target="http://www.w3.org/2002/07/owl#DatatypeProperty">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/906b4864-0511-480f-a8bc-7b8302efbf0b?version=20.19.120" target="2.555797898">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/906b4864-0511-480f-a8bc-7b8302efbf0b?version=20.19.120" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Porenbeton">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/906b4864-0511-480f-a8bc-7b8302efbf0b?version=20.19.120" target="0.250406575">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/906b4864-0511-480f-a8bc-7b8302efbf0b?version=20.19.120" target="182.391555">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/906b4864-0511-480f-a8bc-7b8302efbf0b?version=20.19.120" target="185.3873766">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/906b4864-0511-480f-a8bc-7b8302efbf0b?version=20.19.120" target="0.970129921">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/906b4864-0511-480f-a8bc-7b8302efbf0b?version=20.19.120" target="-0.78051283">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/906b4864-0511-480f-a8bc-7b8302efbf0b?version=20.19.120" target="https://dbpedia.org/page/kg_CO2_m3">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/906b4864-0511-480f-a8bc-7b8302efbf0b?version=20.19.120" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/906b4864-0511-480f-a8bc-7b8302efbf0b?version=20.19.120" target="Porenbeton_P2_04_unbewehrt">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12005516#trv" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12005516#trv" target="Trockenbeton C16/20">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12005516#trv" target="https://www.freeclass.de/eurobau_artikelstamm/1200#trv">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/c7e171fb-d5eb-4867-9fb2-961dec81d6aa?version=20.20.020" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Blähton_LB">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/c7e171fb-d5eb-4867-9fb2-961dec81d6aa?version=20.20.020" target="-3.286369812">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/c7e171fb-d5eb-4867-9fb2-961dec81d6aa?version=20.20.020" target="Blähton LB Hohlblockstein Trennwand">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/c7e171fb-d5eb-4867-9fb2-961dec81d6aa?version=20.20.020" target="10.76125431">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/c7e171fb-d5eb-4867-9fb2-961dec81d6aa?version=20.20.020" target="398.4009055">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/c7e171fb-d5eb-4867-9fb2-961dec81d6aa?version=20.20.020" target="4.084757564">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/c7e171fb-d5eb-4867-9fb2-961dec81d6aa?version=20.20.020" target="https://dbpedia.org/page/kg_CO2_m3">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/c7e171fb-d5eb-4867-9fb2-961dec81d6aa?version=20.20.020" target="1.054343475">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/c7e171fb-d5eb-4867-9fb2-961dec81d6aa?version=20.20.020" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/c7e171fb-d5eb-4867-9fb2-961dec81d6aa?version=20.20.020" target="385.78692">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/629/AT0986" target="PROFI Trockenbeton DC16/20">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/629/AT0986" target="https://www.freeclass.de/eurobau_artikelstamm/12005516#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://dbpedia.org/page/kg_CO2_kg" target="https://dbpedia.org/property/unit">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://dbpedia.org/page/kg_CO2_kg" target="kg CO2/kg">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://dbpedia.org/property/unit" target="https://identifier.buildingsmart.org/uri/LCA/LCA/3.0/prop/GWP_total">
+  <data key="d1">rdfs:domain</data>
+</edge>
+<edge source="https://dbpedia.org/property/unit" target="http://www.w3.org/2002/07/owl#Property">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.eu/produkt_info/758/AT0031" target="PCreteo®Repair CC 194 M">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.eu/produkt_info/758/AT0031" target="https://www.freeclass.de/eurobau_artikelstamm/12010504#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/561/AT0076" target="Baumit GO2morrow Recycling Beton B20">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/561/AT0076" target="https://www.freeclass.de/eurobau_artikelstamm/12005516#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/16e0f5b5-8090-4466-b303-7b8ae71110d8?version=20.23.050" target="0.141743443">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/16e0f5b5-8090-4466-b303-7b8ae71110d8?version=20.23.050" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Betonfertigteile_und_Betonwaren">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/16e0f5b5-8090-4466-b303-7b8ae71110d8?version=20.23.050" target="0.000718871">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/16e0f5b5-8090-4466-b303-7b8ae71110d8?version=20.23.050" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/16e0f5b5-8090-4466-b303-7b8ae71110d8?version=20.23.050" target="0.00721909">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/16e0f5b5-8090-4466-b303-7b8ae71110d8?version=20.23.050" target="https://dbpedia.org/page/kg_CO2_kg">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/16e0f5b5-8090-4466-b303-7b8ae71110d8?version=20.23.050" target="Betonrohr._bewehrt">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/16e0f5b5-8090-4466-b303-7b8ae71110d8?version=20.23.050" target="-0.002020912">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/16e0f5b5-8090-4466-b303-7b8ae71110d8?version=20.23.050" target="0.150445554">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/16e0f5b5-8090-4466-b303-7b8ae71110d8?version=20.23.050" target="0.002785062">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://dbpedia.org/page/Material" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12010504#trv" target="https://www.freeclass.de/eurobau_artikelstamm/1201#trv">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12010504#trv" target="Spritzbeton Beton-Größtkorn 4 mm">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12010504#trv" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Mörtel_und_Beton" target="Mörtel und Beton">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Mörtel_und_Beton" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Mörtel_und_Beton" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Mineralische_Baustoffe">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/079ed601-8b92-49cd-9c09-ab8e067366cf?version=20.23.050" target="2.045883972">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_A4</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/079ed601-8b92-49cd-9c09-ab8e067366cf?version=20.23.050" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Transportbeton">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/079ed601-8b92-49cd-9c09-ab8e067366cf?version=20.23.050" target="-4.013092608">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/079ed601-8b92-49cd-9c09-ab8e067366cf?version=20.23.050" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/079ed601-8b92-49cd-9c09-ab8e067366cf?version=20.23.050" target="6.851219671">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/079ed601-8b92-49cd-9c09-ab8e067366cf?version=20.23.050" target="https://dbpedia.org/page/kg_CO2_m3">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/079ed601-8b92-49cd-9c09-ab8e067366cf?version=20.23.050" target="14.2239352">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/079ed601-8b92-49cd-9c09-ab8e067366cf?version=20.23.050" target="0.617424632">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/079ed601-8b92-49cd-9c09-ab8e067366cf?version=20.23.050" target="327.5596914">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/079ed601-8b92-49cd-9c09-ab8e067366cf?version=20.23.050" target="C50/60">
+  <data key="d1">bSDD:uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral/prop/Pset_ConcreteElementGeneral/StrengthClass</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/079ed601-8b92-49cd-9c09-ab8e067366cf?version=20.23.050" target="Transportbeton_C50/60">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/079ed601-8b92-49cd-9c09-ab8e067366cf?version=20.23.050" target="347.2850623">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/506/AT0031" target="https://www.freeclass.de/eurobau_artikelstamm/12006008#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/506/AT0031" target="Creteo®Gala CC 633">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12006008#trv" target="https://www.freeclass.de/eurobau_artikelstamm/1200#trv">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12006008#trv" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12006008#trv" target="Drainage Beton Größtkorn 8 mm">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Mineralische_Baustoffe" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Mineralische_Baustoffe" target="https://identifier.buildingsmart.org/IfcMaterial">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Mineralische_Baustoffe" target="https://dbpedia.org/page/Material">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Mineralische_Baustoffe" target="Mineralische Baustoffe">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3" target="http://www.w3.org/2002/07/owl#DatatypeProperty">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3" target="cPset_EnvironmentalImpactValues_C3">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3" target="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties">
+  <data key="d1">rdfs:subPropertyOf</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3" target="http://www.w3.org/2001/XMLSchema#double">
+  <data key="d1">rdfs:range</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12005530#trv" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/a758fb6a-7fb1-4cdc-b652-c42cf2f7632c?version=20.20.020">
+  <data key="d1">skos:narrowMatch</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12005530#trv" target="https://www.freeclass.de/eurobau_artikelstamm/1200#trv">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12005530#trv" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12005530#trv" target="Trockenbeton C30/37">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/556/AT0076" target="Baumit ALL IN TrockenBeton 20">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/556/AT0076" target="https://www.freeclass.de/eurobau_artikelstamm/12005516#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.eu/produkt_info/736/AT0031" target="Creteo®Shot CC 555 J2">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.eu/produkt_info/736/AT0031" target="https://www.freeclass.de/eurobau_artikelstamm/12010508#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/ab0a0f3c-41f6-4b0a-a12c-f8bd0c8a4a23?version=20.19.120" target="312.8355034">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/ab0a0f3c-41f6-4b0a-a12c-f8bd0c8a4a23?version=20.19.120" target="329.7597014">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/ab0a0f3c-41f6-4b0a-a12c-f8bd0c8a4a23?version=20.19.120" target="-3.902882519">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/ab0a0f3c-41f6-4b0a-a12c-f8bd0c8a4a23?version=20.19.120" target="13.94185307">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/ab0a0f3c-41f6-4b0a-a12c-f8bd0c8a4a23?version=20.19.120" target="Betonfertigteil_Treppe_(1.1_m_Breite._9_Stufen_a_16_cm)">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/ab0a0f3c-41f6-4b0a-a12c-f8bd0c8a4a23?version=20.19.120" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Betonfertigteile_und_Betonwaren">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/ab0a0f3c-41f6-4b0a-a12c-f8bd0c8a4a23?version=20.19.120" target="https://dbpedia.org/page/kg_CO2_pcs">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/ab0a0f3c-41f6-4b0a-a12c-f8bd0c8a4a23?version=20.19.120" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/ab0a0f3c-41f6-4b0a-a12c-f8bd0c8a4a23?version=20.19.120" target="1.412580633">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/ab0a0f3c-41f6-4b0a-a12c-f8bd0c8a4a23?version=20.19.120" target="5.472646782">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/558/AT0076" target="Baumit PumpBeton">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/558/AT0076" target="https://www.freeclass.de/eurobau_artikelstamm/12005004#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/579/AT1490" target="https://www.freeclass.de/eurobau_artikelstamm/12005516#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/579/AT1490" target="Trockenbeton B225">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/739/AT0076/22596" target="Baumit PflasterDrainmörtel GK 4 plus">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/739/AT0076/22596" target="https://www.freeclass.de/eurobau_artikelstamm/12006004#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral/prop/Pset_ConcreteElementGeneral/StrengthClass" target="Strength Class">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral/prop/Pset_ConcreteElementGeneral/StrengthClass" target="http://www.w3.org/2001/XMLSchema#string">
+  <data key="d1">rdfs:range</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral/prop/Pset_ConcreteElementGeneral/StrengthClass" target="http://www.w3.org/2002/07/owl#Property">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral/prop/Pset_ConcreteElementGeneral/StrengthClass" target="https://dbpedia.org/page/Compressive_strength">
+  <data key="d1">skos:sameAs</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral/prop/Pset_ConcreteElementGeneral/StrengthClass" target="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral">
+  <data key="d1">rdfs:domain</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12002501#trv" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d2ae1721-bb2a-4386-9d9f-abb1c774b0a8?version=20.23.050">
+  <data key="d1">skos:narrowMatch</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12002501#trv" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12002501#trv" target="Transportbeton C25/30 B1">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12002501#trv" target="https://www.freeclass.de/eurobau_artikelstamm/1200#trv">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d2ae1721-bb2a-4386-9d9f-abb1c774b0a8?version=20.23.050" target="6.802978586">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d2ae1721-bb2a-4386-9d9f-abb1c774b0a8?version=20.23.050" target="242.5490161">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d2ae1721-bb2a-4386-9d9f-abb1c774b0a8?version=20.23.050" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Transportbeton">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d2ae1721-bb2a-4386-9d9f-abb1c774b0a8?version=20.23.050" target="222.9636637">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d2ae1721-bb2a-4386-9d9f-abb1c774b0a8?version=20.23.050" target="2.030350996">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_A4</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d2ae1721-bb2a-4386-9d9f-abb1c774b0a8?version=20.23.050" target="https://dbpedia.org/page/kg_CO2_m3">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d2ae1721-bb2a-4386-9d9f-abb1c774b0a8?version=20.23.050" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d2ae1721-bb2a-4386-9d9f-abb1c774b0a8?version=20.23.050" target="-3.984835459">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d2ae1721-bb2a-4386-9d9f-abb1c774b0a8?version=20.23.050" target="Transportbeton_C25/30">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d2ae1721-bb2a-4386-9d9f-abb1c774b0a8?version=20.23.050" target="0.613077197">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d2ae1721-bb2a-4386-9d9f-abb1c774b0a8?version=20.23.050" target="C25/30">
+  <data key="d1">bSDD:uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral/prop/Pset_ConcreteElementGeneral/StrengthClass</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d2ae1721-bb2a-4386-9d9f-abb1c774b0a8?version=20.23.050" target="14.12378105">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8f44840b-28ae-418b-bf12-fcac5b7c68b3?version=20.20.020" target="Bims-Planstein (SFK-4)">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8f44840b-28ae-418b-bf12-fcac5b7c68b3?version=20.20.020" target="78.04464808">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8f44840b-28ae-418b-bf12-fcac5b7c68b3?version=20.20.020" target="2.506555778">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8f44840b-28ae-418b-bf12-fcac5b7c68b3?version=20.20.020" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8f44840b-28ae-418b-bf12-fcac5b7c68b3?version=20.20.020" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Leichtbeton">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8f44840b-28ae-418b-bf12-fcac5b7c68b3?version=20.20.020" target="https://dbpedia.org/page/kg_CO2_m3">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8f44840b-28ae-418b-bf12-fcac5b7c68b3?version=20.20.020" target="-1.848583019">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8f44840b-28ae-418b-bf12-fcac5b7c68b3?version=20.20.020" target="85.9531013">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8f44840b-28ae-418b-bf12-fcac5b7c68b3?version=20.20.020" target="6.603496961">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/8f44840b-28ae-418b-bf12-fcac5b7c68b3?version=20.20.020" target="0.646983496">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/21a40e8f-3897-4465-975b-81b6370936fb?version=20.20.020" target="175.9923338">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/21a40e8f-3897-4465-975b-81b6370936fb?version=20.20.020" target="Blähton LB Planstein Außenwand">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/21a40e8f-3897-4465-975b-81b6370936fb?version=20.20.020" target="0.329482336">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/21a40e8f-3897-4465-975b-81b6370936fb?version=20.20.020" target="https://dbpedia.org/page/kg_CO2_m3">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/21a40e8f-3897-4465-975b-81b6370936fb?version=20.20.020" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/21a40e8f-3897-4465-975b-81b6370936fb?version=20.20.020" target="1.276486739">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/21a40e8f-3897-4465-975b-81b6370936fb?version=20.20.020" target="-1.026990566">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/21a40e8f-3897-4465-975b-81b6370936fb?version=20.20.020" target="3.362891971">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/21a40e8f-3897-4465-975b-81b6370936fb?version=20.20.020" target="172.0504633">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/21a40e8f-3897-4465-975b-81b6370936fb?version=20.20.020" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Blähton_LB">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA/3.0/prop/GWP_total" target="http://www.w3.org/2001/XMLSchema#double">
+  <data key="d1">rdfs:range</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA/3.0/prop/GWP_total" target="http://www.w3.org/2002/07/owl#DatatypeProperty">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA/3.0/prop/GWP_total" target="http://www.w3.org/2002/07/owl#Property">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA/3.0/prop/GWP_total" target="GWP total">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA/3.0/prop/GWP_total" target="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties">
+  <data key="d1">rdfs:subPropertyOf</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA/3.0/prop/GWP_total" target="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral">
+  <data key="d1">rdfs:domain</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA/3.0/prop/GWP_total" target="global warming potential - total">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/bdda4364-451f-4df2-a68b-5912469ee4c9?version=20.19.120" target="Beton-Mauersteine">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/bdda4364-451f-4df2-a68b-5912469ee4c9?version=20.19.120" target="1.317929344">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/bdda4364-451f-4df2-a68b-5912469ee4c9?version=20.19.120" target="242.3509272">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/bdda4364-451f-4df2-a68b-5912469ee4c9?version=20.19.120" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Betonfertigteile_und_Betonwaren">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/bdda4364-451f-4df2-a68b-5912469ee4c9?version=20.19.120" target="-4.107962265">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/bdda4364-451f-4df2-a68b-5912469ee4c9?version=20.19.120" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/bdda4364-451f-4df2-a68b-5912469ee4c9?version=20.19.120" target="258.1184091">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/bdda4364-451f-4df2-a68b-5912469ee4c9?version=20.19.120" target="5.105946955">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/bdda4364-451f-4df2-a68b-5912469ee4c9?version=20.19.120" target="13.45156788">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/bdda4364-451f-4df2-a68b-5912469ee4c9?version=20.19.120" target="https://dbpedia.org/page/kg_CO2_m3">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Stahl_und_Eisen" target="Stahl und Eisen">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Stahl_und_Eisen" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Stahl_und_Eisen" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Metalle">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/63ddb7e1-4e0b-43cb-8a8d-82c5c137a2a2?version=20.20.020" target="47.36261087">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/63ddb7e1-4e0b-43cb-8a8d-82c5c137a2a2?version=20.20.020" target="0.359435276">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/63ddb7e1-4e0b-43cb-8a8d-82c5c137a2a2?version=20.20.020" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/63ddb7e1-4e0b-43cb-8a8d-82c5c137a2a2?version=20.20.020" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Leichtbeton">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/63ddb7e1-4e0b-43cb-8a8d-82c5c137a2a2?version=20.20.020" target="1.392530988">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/63ddb7e1-4e0b-43cb-8a8d-82c5c137a2a2?version=20.20.020" target="Leichtbetonstein_aus_100_Prozent_Naturbims">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/63ddb7e1-4e0b-43cb-8a8d-82c5c137a2a2?version=20.20.020" target="3.668609423">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/63ddb7e1-4e0b-43cb-8a8d-82c5c137a2a2?version=20.20.020" target="https://dbpedia.org/page/kg_CO2_m3">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/63ddb7e1-4e0b-43cb-8a8d-82c5c137a2a2?version=20.20.020" target="42.96902575">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/63ddb7e1-4e0b-43cb-8a8d-82c5c137a2a2?version=20.20.020" target="-1.026990566">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/630/AT0986" target="https://www.freeclass.de/eurobau_artikelstamm/12005525#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/630/AT0986" target="PROFI Trockenbeton DC25/30">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/5c89cce2-688c-4fed-aa02-eda80ffba5f7?version=20.23.050" target="0.617424632">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/5c89cce2-688c-4fed-aa02-eda80ffba5f7?version=20.23.050" target="-4.013092608">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/5c89cce2-688c-4fed-aa02-eda80ffba5f7?version=20.23.050" target="2.045883972">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_A4</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/5c89cce2-688c-4fed-aa02-eda80ffba5f7?version=20.23.050" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Transportbeton">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/5c89cce2-688c-4fed-aa02-eda80ffba5f7?version=20.23.050" target="yes">
+  <data key="d1">bSDD:uri/Al-Qazzaz/Circularity/0.0.1/prop/Recycled</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/5c89cce2-688c-4fed-aa02-eda80ffba5f7?version=20.23.050" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/5c89cce2-688c-4fed-aa02-eda80ffba5f7?version=20.23.050" target="343.7623072">
+  <data key="d1">bSDD:uri/LCA/LCA/3.0/prop/GWP_total</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/5c89cce2-688c-4fed-aa02-eda80ffba5f7?version=20.23.050" target="https://dbpedia.org/page/kg_CO2_m3">
+  <data key="d1">dbp:unit</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/5c89cce2-688c-4fed-aa02-eda80ffba5f7?version=20.23.050" target="324.0369363">
+  <data key="d1">bSDD:cPset_EnvironmentalImpactValues_A1_A3</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/5c89cce2-688c-4fed-aa02-eda80ffba5f7?version=20.23.050" target="C50/60">
+  <data key="d1">bSDD:uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral/prop/Pset_ConcreteElementGeneral/StrengthClass</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/5c89cce2-688c-4fed-aa02-eda80ffba5f7?version=20.23.050" target="Recycling_Transportbeton_C50/60">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/5c89cce2-688c-4fed-aa02-eda80ffba5f7?version=20.23.050" target="6.851219671">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C2</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/5c89cce2-688c-4fed-aa02-eda80ffba5f7?version=20.23.050" target="14.2239352">
+  <data key="d1">bSDD:uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C3</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/1200#trv" target="https://www.freeclass.de/eurobau_artikelstamm/120#trv">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/1200#trv" target="1200 Transportbeton">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/1200#trv" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement" target="IfcBuiltElement">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement" target="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://dbpedia.org/page/Concrete" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://dbpedia.org/page/Concrete" target="https://dbpedia.org/page/Material">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1" target="http://www.w3.org/2001/XMLSchema#double">
+  <data key="d1">rdfs:range</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1" target="http://www.w3.org/2002/07/owl#DatatypeProperty">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1" target="cPset_EnvironmentalImpactValues_C1">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_C1" target="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties">
+  <data key="d1">rdfs:subPropertyOf</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/632/AT0986" target="PROFI Fliessbeton DC25/30">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/632/AT0986" target="https://www.freeclass.de/eurobau_artikelstamm/12005525#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12002504#trv" target="https://www.freeclass.de/eurobau_artikelstamm/1200#trv">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12002504#trv" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12002504#trv" target="Transportbeton C25/30 B4">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12002504#trv" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d2ae1721-bb2a-4386-9d9f-abb1c774b0a8?version=20.23.050">
+  <data key="d1">skos:narrowMatch</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3" target="IFC 4.3">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3" target="https://identifier.buildingsmart.org/uri/buildingsmart/ifc">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12005004#trv" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d2ae1721-bb2a-4386-9d9f-abb1c774b0a8?version=20.23.050">
+  <data key="d1">skos:narrowMatch</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12005004#trv" target="https://www.freeclass.de/eurobau_artikelstamm/1200#trv">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12005004#trv" target="Pumpbeton C25/30 GK 4 mm">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12005004#trv" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/555/AT0076" target="Baumit TrockenBeton 20">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/555/AT0076" target="https://www.freeclass.de/eurobau_artikelstamm/12005516#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D" target="http://www.w3.org/2001/XMLSchema#double">
+  <data key="d1">rdfs:range</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D" target="http://www.w3.org/2002/07/owl#DatatypeProperty">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D" target="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties">
+  <data key="d1">rdfs:subPropertyOf</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/LCA/LCA_properties/0.1/class/LCA_properties/prop/cPset_EnvironmentalImpactValues_D" target="cPset_EnvironmentalImpactValues_D">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Beton" target="https://identifier.buildingsmart.org/Beton">
+  <data key="d1">skos:sameAs</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Beton" target="Beton">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Beton" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Mörtel_und_Beton">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Beton" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Beton" target="https://www.freeclass.eu/eurobau_artikelstamm/120#trv">
+  <data key="d1">skos:sameAs</data>
+</edge>
+<edge source="https://www.freeclass.eu/produkt_info/582/AT1490" target="https://www.freeclass.de/eurobau_artikelstamm/12010508#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.eu/produkt_info/582/AT1490" target="Spritzbeton B350">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/559/AT0076" target="Baumit Dicht- und SichtBeton">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/559/AT0076" target="https://www.freeclass.de/eurobau_artikelstamm/12005525#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12006004#trv" target="Drainage Beton Größtkorn 4 mm">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12006004#trv" target="https://www.freeclass.de/eurobau_artikelstamm/1200#trv">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12006004#trv" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12002503#trv" target="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/d2ae1721-bb2a-4386-9d9f-abb1c774b0a8?version=20.23.050">
+  <data key="d1">skos:narrowMatch</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12002503#trv" target="https://www.freeclass.de/eurobau_artikelstamm/1200#trv">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12002503#trv" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12002503#trv" target="Transportbeton C25/30 B3">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/634/AT0986" target="https://www.freeclass.de/eurobau_artikelstamm/12005530#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/634/AT0986" target="PROFI Fliessbeton C30/37">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.eu/produkt_info/636/AT0986" target="https://www.freeclass.de/eurobau_artikelstamm/12010504#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.eu/produkt_info/636/AT0986" target="PROFI Trockenspritzbeton SP GK4">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Metalle" target="Metalle">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Metalle" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Metalle" target="https://identifier.buildingsmart.org/IfcMaterial">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.oekobaudat.de/OEKOBAU.DAT/resource/processes/Metalle" target="https://dbpedia.org/page/Material">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://www.freeclass.de/1202#trv/eurobau_artikelstamm" target="https://www.freeclass.de/eurobau_artikelstamm/120#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/1202#trv/eurobau_artikelstamm" target="1202 Zusatzmittel. Haftbrücken f. Beton- und Mörtel">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/Al-Qazzaz/Circularity/0.0.1/prop/Recycled" target="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/Pset_ConcreteElementGeneral">
+  <data key="d1">rdfs:domain</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/Al-Qazzaz/Circularity/0.0.1/prop/Recycled" target="http://www.w3.org/2002/07/owl#Property">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/Al-Qazzaz/Circularity/0.0.1/prop/Recycled" target="https://dbpedia.org/page/Recycling">
+  <data key="d1">skos:samAs</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/Al-Qazzaz/Circularity/0.0.1/prop/Recycled" target="http://www.w3.org/2001/XMLSchema#boolean">
+  <data key="d1">rdfs:range</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/Al-Qazzaz/Circularity/0.0.1/prop/Recycled" target="Recycled">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcMaterial" target="IFC Material">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcMaterial" target="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3">
+  <data key="d1">rdfs:subClassOf</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcMaterial" target="https://dbpedia.org/page/Material">
+  <data key="d1">skos:sameAs</data>
+</edge>
+<edge source="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcMaterial" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/554/AT0076" target="https://www.freeclass.de/eurobau_artikelstamm/12005525#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/554/AT0076" target="Baumit TrockenBeton 30">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.eu/produkt_info/635/AT0986" target="PROFI Trockenspritzbeton SP GK8">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.eu/produkt_info/635/AT0986" target="https://www.freeclass.de/eurobau_artikelstamm/12010508#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12#trv" target="http://www.w3.org/2002/07/owl#Class">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/eurobau_artikelstamm/12#trv" target="12 Rohbau. Konstruktion">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/581/AT1490" target="Trockenbeton B300">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/581/AT1490" target="https://www.freeclass.de/eurobau_artikelstamm/12005525#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://dbpedia.org/page/kg_CO2_pcs" target="https://dbpedia.org/property/unit">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://dbpedia.org/page/kg_CO2_pcs" target="kg CO2/pcs">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/627/AT0986" target="https://www.freeclass.de/eurobau_artikelstamm/12005525#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/627/AT0986" target="PROFI Beton 4 mm">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/580/AT1490" target="Faser-Trockenbeton B225F">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/580/AT1490" target="https://www.freeclass.de/eurobau_artikelstamm/12005516#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/628/AT0986" target="https://www.freeclass.de/eurobau_artikelstamm/12005525#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/628/AT0986" target="PROFI Einfach Schnell Beton">
+  <data key="d1">rdfs:label</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/727/AT0031" target="https://www.freeclass.de/eurobau_artikelstamm/12005530#trv">
+  <data key="d1">rdf:type</data>
+</edge>
+<edge source="https://www.freeclass.de/produkt_info/727/AT0031" target="Creteo®Standard 990 DC 30/37">
+  <data key="d1">rdfs:label</data>
+</edge>
+</graph></graphml>

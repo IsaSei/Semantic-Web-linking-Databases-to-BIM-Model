@@ -2,14 +2,14 @@
 This is serving as an example on how the IFC structure can be linked to data in other Databases. It can be used to enrich a BIM Modell with relevant information.
 In this case the Databases used are ÖKOBAUDAT, buildingSMART Data Dictionary, FreeClass and DBPedia.
 
-For further details refere to 2024_B4_IsabelleSeifert_WrittenDocumentation.
+For further details refer to 2024_B4_IsabelleSeifert_Writtenocumentation.
 
 RDF Turtle File:
 
 	2024_B4_IsabelleSeifert_RDF_Concrete.ttl
 
 
-RDF Turtle File simplified (for better redability usiing Prefixes. Can´t be queried sufficiently. Use the non simplified file for queries.):
+RDF Turtle File simplified (for better readability using Prefixes. Can´t be queried sufficiently. Use the non-simplified file for queries.):
 
 	2024_B4_IsabelleSeifert_RDF_ConcreteSimplified.ttl
 
@@ -17,8 +17,15 @@ RDF Turtle File simplified (for better redability usiing Prefixes. Can´t be que
 Visual Illustration of the Semantic Web:
 
 	2024_B4_IsabelleSeifert_SematicWeb_Illustrated.pdf
-To excecute the script the import of rdflib, networkx as nx and ipycytoscape are necessary.
 
+
+To visualize the RDF file as GraphML file the script below can be used:
+
+	2024_B4_IsabelleSeifert_RDF_toGraphML.ipynb
+
+The following is the result of the current Graph as GraphML File
+
+	2024_B4_IsabelleSeifert_RDF_Graph
 
 Examplary SparQL queries:
 
@@ -35,3 +42,4 @@ Examplary SparQL queries:
 		2024_B4_IsabelleSeifert_LP4_SelectionSpecificMaterial.py
   
 To be able to execute the queries, the download of the rdflib is required.
+

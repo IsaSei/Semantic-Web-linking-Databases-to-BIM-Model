@@ -31,5 +31,3 @@ Examplary SparQL queries:
 		LP1_AverageGWP.py
 		LP3_MaterialConcretisation.py
 		LP4_SelectionSpecificMaterial.py
-
-... 

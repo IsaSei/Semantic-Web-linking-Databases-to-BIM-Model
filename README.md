@@ -32,3 +32,4 @@ Examplary SparQL queries:
 		LP3_MaterialConcretisation.py
 		LP4_SelectionSpecificMaterial.py
 
+... 

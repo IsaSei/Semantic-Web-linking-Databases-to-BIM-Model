@@ -4,7 +4,7 @@ In this case the Databases used are ÖKOBAUDAT, buildingSMART Data Dictionary, F
 
 For further details refer to:
 
-	2024_B4_IsabelleSeifert_WrittenDocumentation.
+	2024_B4_IsabelleSeifert_WrittenDocumentation.pdf
 
 RDF Turtle File:
 
